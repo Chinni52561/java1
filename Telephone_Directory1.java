@@ -8,7 +8,7 @@ public class Telephone_Directory1 {
     public static void main(String[] args) {
         Map<String, String> directory = new HashMap<>();
 
-        // Add some initial entries to the directory
+        
         directory.put("8609678099", "Bhanu");
         directory.put("9959713005", "Surekha");
 
